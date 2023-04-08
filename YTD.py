@@ -95,7 +95,3 @@ browse_folder_button = tk.Button(window, text = "Save To", command = browse_fold
 browse_folder_button.place(x = 395, y = 230)
 
 window.mainloop()
-
-
-
-#This script allows the user to download multiple YouTube videos at once as either MP4 or MP3 files. It uses the tkinter module for GUI and the pytube module for downloading YouTube videos.
